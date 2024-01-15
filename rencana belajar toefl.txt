@@ -3,5 +3,8 @@ Rencana belajar toefl
   *subject
   *predikat
 -coversation
+ *berdua
+ *bertiga
 -listening
 -reading
+

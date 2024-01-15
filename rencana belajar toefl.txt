@@ -1,10 +1,10 @@
 Rencana belajar toefl
 -structure
   *subject
-  *predikat
+  *object
 -coversation
  *berdua
+ *present
  *bertiga
 -listening
 -reading
-
